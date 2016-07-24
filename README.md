@@ -1,2 +1,2 @@
 # hello-world
-Just being polite
+Being polite to Github with the hello-world repository
